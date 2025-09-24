@@ -12,6 +12,9 @@
 -    Виджет Навигации по хранилищу 
 -    Интеграция кастомных уведомлений с Telegram-ботом
 
+[Демонстрация функционала]([https://drive.google.com/file/d/ID/preview](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/view?usp=sharing))
+
+
 ## Технологический стек (Frontend)
 
 -   **React (TypeScript)** — основа приложения
