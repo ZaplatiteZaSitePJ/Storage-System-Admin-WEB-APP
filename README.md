@@ -12,7 +12,7 @@
 -    Виджет Навигации по хранилищу 
 -    Интеграция кастомных уведомлений с Telegram-ботом
 
-[Демонстрация функционала](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
+[Демонстрация функционала]([https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview](https://drive.google.com/file/d/1_M6gi6osxnetkpcnjIKLIeLxsnET_tn1/view?usp=sharing))
 
 ## Основной стек (Frontend)
 
