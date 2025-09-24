@@ -18,7 +18,7 @@
 ![navigation](https://drive.google.com/uc?export=view&id=1P2XVWXk1MgmflruNhrRpufLuGcJq88lL)
 
 -    Поиск объектов по QR-коду
-![qr-search](https://drive.google.com/uc?export=view&id=1pkBNd74md-xGOnvDfXgoLHU1Ile0GmUQ)
+![qr-search](https://drive.google.com/uc?export=view&id=1pkBNd74md-xGOnvDfXgoLHU1Ile0GmUQ](https://drive.google.com/file/d/1pkBNd74md-xGOnvDfXgoLHU1Ile0GmUQ/view?usp=sharing)
 
 -    Интеграция кастомных уведомлений с Telegram-ботом
 ![telegram](https://drive.google.com/uc?export=view&id=1x2PY8ix1pxCxi5_K1C2vT26JsYR2hph9)
