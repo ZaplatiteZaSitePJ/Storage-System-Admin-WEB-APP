@@ -5,8 +5,11 @@
 
 ## Основной функционал
 
+### Полная видео-демонстрация:
+[![Смотреть демо](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
+
 -    JWE авторизация / регистрация с валидацией форм
-![Demo1](https://drive.google.com/uc?export=view&id=15ikZBf6MRnESbxD1Whq9WZqqizXM54OK)
+![Auth1]([https://drive.google.com/uc?export=view&id=15ikZBf6MRnESbxD1Whq9WZqqizXM54OK](https://i.imgur.com/QHVvUWk.jpeg))
   
 -    Создание, изменение и удаление Хранилища / Ячеек и Объектов + cоздание пользовательских атрибутов
 ![creation]([https://i.imgur.com/a2HI9TW.gif](https://i.imgur.com/a2HI9TW.mp4))
@@ -23,9 +26,6 @@
 
 -    Интеграция кастомных уведомлений с Telegram-ботом
 ![telegram](https://drive.google.com/uc?export=view&id=1x2PY8ix1pxCxi5_K1C2vT26JsYR2hph9)
-
-### Полная демонстрация:
-[![Смотреть демо](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
 
 
 ## Основной стек (Frontend)
