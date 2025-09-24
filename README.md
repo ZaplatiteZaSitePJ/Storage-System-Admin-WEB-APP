@@ -9,7 +9,8 @@
 ![Demo1](https://drive.google.com/uc?export=view&id=15ikZBf6MRnESbxD1Whq9WZqqizXM54OK)
   
 -    Создание, изменение и удаление Хранилища / Ячеек и Объектов + cоздание пользовательских атрибутов
-![deletion](https://drive.google.com/uc?export=view&id=1UbDGx_l80CjIDpa2YwIwWFu_uNSoXo8H)
+![creation](https://i.imgur.com/a2HI9TW.gif)
+
 
 -    Фильтрация и сортировка
 ![filtration](https://drive.google.com/uc?export=view&id=1sXaMDBtEDxt9fK2J0eIkQGn3ITst3HhS)
