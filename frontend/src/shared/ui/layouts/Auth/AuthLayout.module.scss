@@ -1,0 +1,26 @@
+.background {
+	width: 100vw;
+	min-height: 100vh;
+	height: fit-content;
+	background-color: var(--bg-blue-color);
+}
+
+.layout {
+	display: flex;
+	justify-content: space-between;
+	width: 1200px;
+	margin: 0 auto;
+	padding: 80px 0;
+	height: 100vh;
+
+	&__content {
+		width: 100%;
+		height: calc(100vh - 160px);
+		overflow: auto;
+	}
+
+	&__wrapper {
+		width: 896px;
+		margin: 0 auto;
+	}
+}

@@ -1,0 +1,55 @@
+.TelegramIntegration {
+	background-color: var(--blue-color);
+	padding: 16px;
+	border-radius: 16px;
+
+	h2 {
+		font-size: var(--giant-font-size);
+		margin-bottom: 24px;
+	}
+
+	p {
+		font-weight: 100;
+		margin-bottom: 16px;
+	}
+
+	&__mainContainer {
+		display: flex;
+		flex-direction: column;
+		gap: 48px;
+	}
+
+	&__textContainer {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		width: fit-content;
+		background-color: var(--dark-blue-color);
+		padding: 32px;
+		font-size: var(--giant-font-size);
+		border-radius: 16px;
+		gap: 16px;
+	}
+
+	&__subText {
+		font-size: var(--normal-font-size);
+	}
+
+	&__link {
+		display: inline-block;
+		color: var(--green-color) !important;
+		transform: scale(1);
+		font-weight: 100;
+
+		&:hover {
+			font-size: var(--large-font-size);
+		}
+	}
+}
+
+.countdown {
+	padding: 8px;
+	border-radius: 8px;
+	background-color: var(--blue-color);
+}

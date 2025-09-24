@@ -1,0 +1,65 @@
+.modal {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.75);
+
+	&__header {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 64px;
+
+		h2 {
+			font-size: var(--title-font-size);
+			width: 100%;
+			text-align: left;
+		}
+	}
+
+	&__closeButton {
+		font-size: var(--giant-font-size);
+		transition: ease 0.15s;
+
+		&:hover,
+		&:focus-visible {
+			transform: scale(1.5);
+		}
+	}
+
+	&__container {
+		width: fit-content;
+		min-width: 800px;
+		max-width: 95vh;
+		text-wrap: wrap;
+		max-height: 90vh;
+		overflow-y: auto;
+		padding: 32px;
+		background-color: var(--bg-blue-color);
+		box-shadow: 0 0 64px var(--bg-blue-color);
+		border-radius: 16px;
+
+		&::-webkit-scrollbar-button {
+			display: none;
+		}
+
+		&::-webkit-scrollbar {
+			width: 8px;
+			height: 8px;
+			background: transparent;
+		}
+
+		&::-webkit-scrollbar-thumb {
+			background-color: rgb(247, 98, 98);
+			border-radius: 8px;
+			border: 2px solid transparent;
+			background-clip: content-box;
+		}
+
+		&::-webkit-scrollbar-track {
+			background: transparent;
+		}
+	}
+}

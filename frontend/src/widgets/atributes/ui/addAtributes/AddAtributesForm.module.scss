@@ -1,0 +1,44 @@
+.addAtributes {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+
+	&__atribute {
+		width: 100%;
+		align-items: end;
+		border-radius: 16px;
+		display: flex;
+		justify-content: space-between;
+		gap: 56px;
+		background-color: var(--dark-blue-color);
+		padding: 32px 32px 32px;
+	}
+
+	&__buttonContainer {
+		display: flex;
+		width: 100%;
+		justify-content: end;
+		border-radius: 32px;
+	}
+
+	&__deleteButton {
+		margin-bottom: 16px;
+	}
+}
+
+.errorDiv {
+	transform: translateY(8px);
+	background-color: var(--red-color);
+	color: white;
+	font-weight: 400;
+	width: 6px;
+	height: 6px;
+}
+
+.subInfo {
+	margin-top: 8px;
+	text-align: end;
+	font-size: var(--smallest-font-size);
+	font-weight: 100;
+	color: var(--grey-color);
+}

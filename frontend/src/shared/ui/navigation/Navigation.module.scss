@@ -1,0 +1,40 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+}
+
+.logo {
+	height: 36px;
+	width: fit-content;
+}
+
+.navigation {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+
+	&__pages {
+		display: flex;
+		align-items: center;
+		height: 48px;
+		font-weight: 100;
+		padding-left: 16px;
+		border-radius: 8px;
+
+		&:hover,
+		&:focus-visible {
+			color: var(--light-blue-color);
+		}
+	}
+
+	&__active {
+		background-color: var(--light-blue-color);
+		font-weight: 500;
+
+		&:hover,
+		&:focus-visible {
+			color: var(--white-color);
+		}
+	}
+}

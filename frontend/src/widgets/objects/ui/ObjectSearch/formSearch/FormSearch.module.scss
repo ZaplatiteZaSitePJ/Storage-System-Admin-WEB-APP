@@ -1,0 +1,91 @@
+.objectFormSearch {
+	position: relative;
+	width: 100%;
+	display: flex;
+	gap: 32px;
+	background-color: var(--dark-blue-color);
+	border-radius: 16px;
+
+	&__filter {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: start;
+		gap: 32px;
+		padding: 32px 32px;
+		background-color: var(--blue-color);
+		border-radius: 16px;
+		transition: ease 0.15s;
+
+		&::-webkit-scrollbar-button {
+			display: none;
+		}
+
+		&::-webkit-scrollbar {
+			width: 8px;
+			height: 8px;
+			background: transparent;
+		}
+
+		&::-webkit-scrollbar-thumb {
+			background-color: var(--grey-color);
+			border-radius: 8px;
+			border: 2px solid transparent;
+			background-clip: content-box;
+		}
+
+		&::-webkit-scrollbar-track {
+			background: transparent;
+		}
+	}
+
+	&__filterContainer {
+		width: 100%;
+		display: flex;
+		gap: 56px;
+		align-items: end;
+		transition: 0.25s ease 0.25s;
+	}
+
+	&__unwrapButton {
+		position: absolute;
+		top: 0;
+		right: 0;
+		z-index: 1000;
+		transform: translate(24px, -20px);
+		border-radius: 50%;
+		padding: 10px 16px;
+		background-color: var(--light-blue-color);
+		transition: ease 0.25s;
+
+		&:hover {
+			font-size: var(--large-font-size);
+			padding: 12px 20px;
+		}
+	}
+
+	&__objectListPlace {
+		width: 100%;
+		padding: calc(160px + 32px) 40px 40px 40px;
+	}
+
+	&__additionalContainer {
+		h3 {
+			font-size: var(--giant-font-size);
+			margin-top: 32px;
+			margin-bottom: 24px;
+		}
+	}
+
+	&__additionalList {
+		display: flex;
+		gap: 48px 50px;
+		flex-wrap: wrap;
+	}
+}
+
+.wrapped {
+	transform: translate(24px, -20px) rotate(180deg) !important;
+}

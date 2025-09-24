@@ -1,0 +1,13 @@
+:root {
+	font-size: var(--normal-font-size);
+	font-family: "ALSHauss", "Arial", sans-serif;
+	font-weight: 400;
+	color: var(--white-color);
+}
+
+a,
+a:link,
+a:visited {
+	transition: ease 0.2s;
+	color: var(--white-color);
+}

@@ -1,0 +1,51 @@
+.main {
+	&__topContainer {
+		margin-bottom: 32px;
+	}
+
+	&__titlePlace {
+		margin-bottom: 32px;
+	}
+
+	&__title {
+		font-size: var(--title-font-size);
+	}
+
+	&__article {
+		font-size: var(--small-font-size);
+		font-weight: 100;
+		color: var(--grey-color);
+		margin-top: 8px;
+		transition: 0.25s;
+
+		&:hover {
+			color: var(--white-color);
+		}
+	}
+
+	&__buttonsBlock {
+		display: flex;
+		justify-content: space-between;
+		background-color: var(--dark-blue-color);
+		padding: 8px;
+		border-radius: 18px;
+	}
+
+	&__deleteTitle {
+		font-weight: 100;
+	}
+
+	&__mainContainer {
+		display: flex;
+		justify-content: space-between;
+		gap: 32px;
+	}
+
+	&__statisticPlace {
+		width: fit-content;
+	}
+
+	&__tree {
+		margin-top: 64px;
+	}
+}

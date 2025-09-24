@@ -1,0 +1,52 @@
+.main {
+	&__topContainer {
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 8px;
+
+		h1 {
+			font-size: var(--title-font-size);
+		}
+	}
+
+	&__mainContainer {
+		width: 100%;
+	}
+}
+
+.statistic {
+	width: 240px;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+
+	h2 {
+		padding-top: 8px;
+		font-size: var(--giant-font-size);
+		margin-bottom: 16px;
+	}
+
+	&__container {
+		background-color: var(--blue-color);
+		border-radius: 12px;
+		padding: 16px 16px;
+	}
+
+	&__title,
+	&__infoOnly {
+		font-size: var(--large-font-size);
+		margin-bottom: 16px;
+	}
+
+	&__info,
+	&__infoOnly {
+		font-weight: 100;
+	}
+
+	&__textContainer {
+		display: flex;
+		gap: 16px;
+		margin-bottom: 4px;
+	}
+}

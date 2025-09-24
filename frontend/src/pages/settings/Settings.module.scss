@@ -1,0 +1,28 @@
+.main {
+	&__topContainer {
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: end;
+		margin-bottom: 40px;
+
+		h1 {
+			font-size: var(--title-font-size);
+		}
+	}
+
+	&__mainContainer {
+		width: 100%;
+	}
+
+	&__logoutButton {
+		font-size: var(--small-font-size);
+		color: var(--grey-color);
+		font-weight: 100;
+		transition: ease 0.25s;
+
+		&:hover {
+			color: var(--white-color);
+		}
+	}
+}

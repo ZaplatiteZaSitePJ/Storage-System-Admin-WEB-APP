@@ -1,0 +1,23 @@
+.searchMode {
+
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+    &__switchButton{
+
+        display: flex;
+        gap: 8px;
+
+        button, span {
+            font-size: var(--giant-font-size);
+            color: var(--grey-color);
+            font-weight: 100;
+            transition: ease-out 0.15s;
+        }
+    }
+
+    &__active {
+        color: var(--green-color) !important;
+    }
+}

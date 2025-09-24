@@ -1,0 +1,24 @@
+.form {
+	background-color: var(--dark-blue-color);
+	padding: 16px;
+	border-radius: 16px;
+	margin-top: 64px;
+
+	h2 {
+		margin-bottom: 32px;
+	}
+
+	&__fieldsContainer {
+		flex: 1;
+		display: flex;
+		justify-content: space-between;
+		gap: 32px;
+		flex-wrap: wrap;
+		margin-bottom: 32px;
+	}
+
+	&__buttonsContainer {
+		display: flex;
+		justify-content: end;
+	}
+}

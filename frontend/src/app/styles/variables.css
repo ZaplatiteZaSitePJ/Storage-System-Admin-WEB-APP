@@ -1,0 +1,22 @@
+:root {
+	/* FONTS */
+	--normal-font-size: 16px;
+	--large-font-size: 20px;
+	--giant-font-size: 24px;
+	--title-font-size: 32px;
+	--small-font-size: 14px;
+	--smallest-font-size: 12px;
+
+	/* COLORS */
+	/* PREVIOS */
+	--white-color: white;
+	--blue-color: #0059aa;
+	--dark-blue-color: #000c18;
+	--light-blue-color: #00aae6;
+	--bg-blue-color: #01162b;
+	--grey-color: #89abca;
+
+	/* ACTIONS */
+	--green-color: #3cff59;
+	--red-color: #b43e40;
+}
