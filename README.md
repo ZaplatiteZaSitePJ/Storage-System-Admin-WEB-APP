@@ -9,7 +9,7 @@
 [![Смотреть демо](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
 
 -    JWE авторизация / регистрация с валидацией форм
-![Auth1]([https://drive.google.com/uc?export=view&id=15ikZBf6MRnESbxD1Whq9WZqqizXM54OK](https://i.imgur.com/QHVvUWk.jpeg))
+![Auth1](https://i.imgur.com/QHVvUWk.jpeg)
   
 -    Создание, изменение и удаление Хранилища / Ячеек и Объектов + cоздание пользовательских атрибутов
 ![creation]([https://i.imgur.com/a2HI9TW.gif](https://i.imgur.com/a2HI9TW.mp4))
