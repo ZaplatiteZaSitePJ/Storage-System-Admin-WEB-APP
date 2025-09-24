@@ -25,7 +25,7 @@
 ![telegram](https://drive.google.com/uc?export=view&id=1x2PY8ix1pxCxi5_K1C2vT26JsYR2hph9)
 
 ### Полная демонстрация:
-[![Demo](https://drive.google.com/file/d/ID/view)
+[![Смотреть демо](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
 
 
 ## Основной стек (Frontend)
