@@ -8,25 +8,25 @@
 ### Полная видео-демонстрация:
 [![Ссылка на видео]](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
 
--    JWE авторизация / регистрация с валидацией форм
+-    **JWE авторизация / регистрация** с валидацией форм
 ![Auth1](https://i.imgur.com/QHVvUWk.jpeg)
   
--    Создание, изменение и удаление Хранилища / Ячеек и Объектов + 
+-    **Создание, изменение и удаление** Хранилища / Ячеек и Объектов + 
 ![creation1](https://i.imgur.com/jo3o76l.jpg)
 ![creation2](https://i.imgur.com/Pw4LAdR.jpg)
 ![deletion](https://i.imgur.com/HdsJcD1.jpg)
 
--    Создание пользовательских атрибутов
+-    **Создание пользовательских атрибутов**
 ![creation2](https://i.imgur.com/VsLQjnr.jpg)
 
--    Фильтрация и сортировка
+-    **Фильтрация и сортировка**
 
--    Виджет Навигации по хранилищу
+-    **Виджет Навигации по хранилищу**
 ![navigation](https://i.imgur.com/ExHd0Iq.jpg)
 
--    Поиск объектов по QR-коду
+-    **Поиск объектов по QR-коду**
 
--    Интеграция кастомных уведомлений с Telegram-ботом
+-    **Интеграция кастомных уведомлений с Telegram-ботом**
 ![telegram](https://i.imgur.com/RZJO0kn.jpg)
 
 
