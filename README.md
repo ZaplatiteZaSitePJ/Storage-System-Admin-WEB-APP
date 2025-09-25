@@ -11,21 +11,24 @@
 -    JWE авторизация / регистрация с валидацией форм
 ![Auth1](https://i.imgur.com/QHVvUWk.jpeg)
   
--    Создание, изменение и удаление Хранилища / Ячеек и Объектов + cоздание пользовательских атрибутов
-![creation]([https://i.imgur.com/a2HI9TW.gif](https://i.imgur.com/a2HI9TW.mp4))
+-    Создание, изменение и удаление Хранилища / Ячеек и Объектов + 
+![creation1](https://i.imgur.com/jo3o76l.jpg)
+![creation2](https://i.imgur.com/Pw4LAdR.jpg)
+![deletion](https://i.imgur.com/HdsJcD1.jpg)
 
+-    Создание пользовательских атрибутов
+![creation2](https://i.imgur.com/VsLQjnr.jpg)
 
 -    Фильтрация и сортировка
-![filtration](https://drive.google.com/uc?export=view&id=1sXaMDBtEDxt9fK2J0eIkQGn3ITst3HhS)
 
 -    Виджет Навигации по хранилищу
-![navigation](https://drive.google.com/uc?export=view&id=1P2XVWXk1MgmflruNhrRpufLuGcJq88lL)
+![navigation](https://i.imgur.com/ExHd0Iq.jpg)
 
 -    Поиск объектов по QR-коду
-![qr-search](https://drive.google.com/uc?export=view&id=1pkBNd74md-xGOnvDfXgoLHU1Ile0GmUQ)
+![qr-search](https://i.imgur.com/RZJO0kn.jpg)
 
 -    Интеграция кастомных уведомлений с Telegram-ботом
-![telegram](https://drive.google.com/uc?export=view&id=1x2PY8ix1pxCxi5_K1C2vT26JsYR2hph9)
+![telegram](https://i.imgur.com/RZJO0kn.jpg)
 
 
 ## Основной стек (Frontend)
