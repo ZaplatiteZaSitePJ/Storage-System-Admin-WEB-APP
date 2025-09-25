@@ -6,7 +6,7 @@
 ## Основной функционал
 
 ### Полная видео-демонстрация:
-[![Смотреть демо](https://via.placeholder.com/800x450.png?text=Demo+Video)](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
+[![Ссылка на GO]](https://drive.google.com/file/d/1ViIeyaGNmEesRRf8pZZotxaiJ6VlwtHs/preview)
 
 -    JWE авторизация / регистрация с валидацией форм
 ![Auth1](https://i.imgur.com/QHVvUWk.jpeg)
