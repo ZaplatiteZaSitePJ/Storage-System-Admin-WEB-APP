@@ -25,7 +25,6 @@
 ![navigation](https://i.imgur.com/ExHd0Iq.jpg)
 
 -    Поиск объектов по QR-коду
-![qr-search](https://i.imgur.com/RZJO0kn.jpg)
 
 -    Интеграция кастомных уведомлений с Telegram-ботом
 ![telegram](https://i.imgur.com/RZJO0kn.jpg)
